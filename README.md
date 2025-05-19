@@ -5,7 +5,7 @@ Ez a program egy f# wpf alkalmazás mely 2D-s térben szimulált 3D megjelenít�
 
 Kezelés:
 
-A programot a jatek mappában található jatek.sln fájl-al lehet elindítani a visual studio programon keresztül (Sajnos az f# bani járatlanságom illetve időhiány miatt nincs szofisztikáltabb mód).
+A programot a jatek mappában található jatek.sln fájl-al lehet elindítani a visual studio programon keresztül vagy az jatek\jatek\bin\Debug\net7.0-windows10.0.17763.0\jatek.exe segítségével.
 
 A szoftver Teljesképernyős módban indul el, fontos hogy a megjelenítés FullHD(1920x1080) legyen.
 
@@ -28,8 +28,8 @@ Project Description
 This program is an F# WPF application that uses simulated 3D rendering in a 2D space via raycasting, reminiscent of classic early 3D games like Wolfenstein 3D.
 Usage
 
-To launch the program, open the jatek.sln file located in the jatek folder using Visual Studio.
-(Note: Due to my limited experience with F# and time constraints, there is no more sophisticated way to run it.)
+To launch the program, open the jatek.sln file located in the jatek folder using Visual Studio, or with the jatek\jatek\bin\Debug\net7.0-windows10.0.17763.0\jatek.exe 
+
 
 The software launches in fullscreen mode, and it is important that the display resolution is Full HD (1920x1080) for proper rendering.
 
